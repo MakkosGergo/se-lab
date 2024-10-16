@@ -1,0 +1,42 @@
+[33mcommit 101cb406d604b99a820c5c2b2119c13285a1993b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbugfix[m[33m)[m
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 13:54:46 2024 +0200
+
+    =- -> -=
+
+[33mcommit 33ba264b3ec7904c54e5f1589f2b4e2fbb5a6656[m
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 13:53:54 2024 +0200
+
+    make generator reusable
+
+[33mcommit 6012db96d10d52861871a5b7dc68dd18382f79dc[m
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 13:51:37 2024 +0200
+
+    add throw to fire in torpedoStore
+
+[33mcommit ec738c3f89bcb1a7c27238cdba603ff97bd90c0f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: a9fc299 c3857e4
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 13:18:12 2024 +0200
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit a9fc2993fa24a6ad2ac698bcda787d51796f0752[m
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 13:15:38 2024 +0200
+
+    Töröltük a TODO kommentet a README.md fájl végéről
+
+[33mcommit c3857e4afe371bf8c3b27bd83d570a47bae8ccee[m
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 12:59:37 2024 +0200
+
+    Create maven.yml
+
+[33mcommit 27dd1308ffc938fd8ed62d8337e5ae5c46482e1d[m
+Author: Makkos Gergely <makkos.gergo@gmail.com>
+Date:   Wed Oct 16 12:48:11 2024 +0200
+
+    Initial commit

@@ -15,7 +15,7 @@ public class TorpedoStore {
   private int torpedoCount = 0;
 
   private Random generator = new Random();
-
+  //random generator megfelelo hasznalata
   public TorpedoStore(int numberOfTorpedos){
     this.torpedoCount = numberOfTorpedos;
 
@@ -33,7 +33,7 @@ public class TorpedoStore {
   public boolean fire(int numberOfTorpedos){
     if(numberOfTorpedos < 1 || numberOfTorpedos > this.torpedoCount){
       throw new IllegalArgumentException("numberOfTorpedos");
-
+      //ideraktam egy thow-ot, hogy mukodjon is
     }
 
     boolean success = false;
@@ -45,6 +45,7 @@ public class TorpedoStore {
     if (r >= FAILURE_RATE) {
       // successful firing
       this.torpedoCount -= numberOfTorpedos;
+      //=- helyett a megfelelo operator
       success = true;
     } else {
       // simulated failure
